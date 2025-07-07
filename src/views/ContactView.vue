@@ -67,8 +67,8 @@
               <div class="ml-4">
                 <h3 class="text-lg font-medium text-gray-900 dark:text-white">Teléfono</h3>
                 <p class="text-gray-600 dark:text-gray-300">
-                  +52 (55) 1234-5678<br />
-                  +52 (55) 8765-4321
+                  +503 2222-2222<br />
+                  +503 3333-3333
                 </p>
               </div>
             </div>
